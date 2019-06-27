@@ -1,4 +1,4 @@
-# set_Permissions
+# set_Permissions(线上网友案列:https://dnczeus.codedefault.com/#/login)
 # 权限设置(分为两种,一种为checkbox实现 一种为树形)(选取框架iview)
 ## checkbox单层全选
 ### ![单层权限设置](https://github.com/zhang-mol/img_loader/blob/master/set_permissions/1.jpg?raw=true)
